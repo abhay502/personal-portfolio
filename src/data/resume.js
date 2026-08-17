@@ -5,7 +5,7 @@ export const profile = {
   email: 'abhaysnath502@gmail.com',
   linkedin: 'https://linkedin.com/in/abhay-s-nath-192445182',
   summary:
-    "Full-stack developer with 3+ years shipping production web apps in React, Node.js, Next.js, and Vue 3 for enterprise and e-commerce clients — spanning REST API design, MongoDB/PostgreSQL data modeling, AWS deployment, and enterprise SSO.",
+    "AI-Full-stack developer with 3+ years shipping production web apps in React, Node.js, Next.js, and Vue 3 for enterprise and e-commerce clients — spanning REST API design, MongoDB/PostgreSQL data modeling, AWS deployment, and enterprise SSO.",
 }
 
 export const skills = {
@@ -22,7 +22,7 @@ export const experience = [
     location: 'Chandigarh, India',
     period: 'Jan 2024 — Present',
     points: [
-      'Architected and shipped a React.js/Node.js platform delivering 3D product configurator experiences, live for US e-commerce clients.',
+      'Architected and shipped a Vue.js/React.js/Node.js platform delivering 3D product configurator experiences, live for US e-commerce clients.',
       'Built a Babylon.js-powered 3D viewer with real-time texture updates and drag-and-drop .glb loading.',
       'Developed an enterprise DAM system (Vue 3, PostgreSQL, Adonis.js) with SAML/OAuth 2.0 SSO managing 10,000+ assets.',
       'Optimized app performance by 40% via code-splitting, lazy loading, and bundle pruning.',
